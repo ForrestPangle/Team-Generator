@@ -1,3 +1,3 @@
 # Team-Generator
  Dynanimcally Create HTML pages using node.js
-![terminalshow](gotit.gif)
+![terminalshow](gifunder25mb.gif)
