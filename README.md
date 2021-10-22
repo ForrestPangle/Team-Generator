@@ -6,4 +6,4 @@ Installation for graders: I had to run npm install and then npm audit fix --forc
 
 Usage: Useful for making a list of staff with details such as name, phone number, ID, position, and email. 
 
-[Link to Repository](https://forrestpangle.github.io/Team-Generator/)
+[Link to Repository](https://github.com/ForrestPangle/Team-Generator)
