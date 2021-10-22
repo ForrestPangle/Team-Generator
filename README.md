@@ -5,3 +5,5 @@
 Installation for graders: I had to run npm install and then npm audit fix --force before application would run as intended (app.js) due to an older version I used when making the app. Please let me know if this causes any issues, the app works fully as intended on my machine as the gif shows.
 
 Usage: Useful for making a list of staff with details such as name, phone number, ID, position, and email. 
+
+Link to repository: https://github.com/ForrestPangle/Team-Generator
